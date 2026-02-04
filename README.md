@@ -6,4 +6,4 @@ Objects are created for use in Tabletop Simulator, which can be spawned in by th
 ### Available Custom Decks
 The released `.json` assets can be used in the following Tabletop Simulator modules:
 - [Azur Lane Star Realms](https://steamcommunity.com/sharedfiles/filedetails/?id=3033360679)
-- Exceed Fighting System](https://steamcommunity.com/sharedfiles/filedetails/?id=1430620409)
+- [Exceed Fighting System](https://steamcommunity.com/sharedfiles/filedetails/?id=1430620409)
